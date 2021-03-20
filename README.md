@@ -1,4 +1,5 @@
 # IMDB Movies Streaming Analysis Project
+This group project analysis and visualizes IMDB datasets of movie streaming platforms.  It uses machine learning techniques and tableau to predict and analyze the profitability of the movies vs. genres and other significant industry related trends.  
 
 Landing Page: Dashboard with graphs/charts about movie data.
 	* Some graphs and charts from Project 2 
